@@ -1,0 +1,19 @@
+{
+    "name": "sobold-dev/project-a",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "A\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sobold-dev",
+            "email": "dev@soboldltd.com"
+        }
+    ],
+    "require": {
+        "scssphp/scssphp": "^1.11",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
